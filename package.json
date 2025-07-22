@@ -9,7 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google/earthengine": "^0.1.392",
+    "@tmcw/togeojson": "^5.8.1",
+    "@turf/turf": "^6.5.0",
+    "chart.js": "^4.4.2",
+    "epsg": "^0.5.0",
+    "maplibre-gl": "^4.1.0",
+    "node-self": "^1.0.2",
+    "reproject": "^1.2.7",
+    "shpjs": "^4.0.4",
     "react": "19.1.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "19.1.0",
     "next": "15.4.2"
   },
